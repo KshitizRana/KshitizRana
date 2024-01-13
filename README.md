@@ -9,6 +9,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_kshitiz_rana_/?igsh=MWNsajJpNDcwbmxsOA%3D%3D) <img src="https://komarev.com/ghpvc/?username=KshitizRana&label=Profile%20views&color=0e75b6&style=flat" alt="KshitizRana" />
 
 
-<p align="center">
-  <img src="https://github.com/KshitizRana/KshitizRana/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
