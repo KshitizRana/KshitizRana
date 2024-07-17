@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi👋+I'm+Kshitiz;)](https://git.io/typing-svg)
-  - currently learning Java and Python. 
+  - currently learning Python and DataScience. 
   - Learning and sharing my progress publicly on Twitter and maintaining a record of it on [Dailyquests](https://github.com/KshitizRana/DailyQuest).
   - Continuously engaging and collaborating with the tech community
 
